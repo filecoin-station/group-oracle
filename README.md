@@ -28,7 +28,7 @@ this behavior is acceptable as long as the restarts don't happen too often.
 
 ```
 curl 'https://spark-group-oracle.fly.io/'
-{"group": "SoMeId", "sig": "ECDSA signature" }
+{"group": "SoMeId", "sig": "9FvjLX8J5ujXKmpaHImW7446OOaTR3w1rCJN3YO9mCXe1/s4FFlLVJkqF216BMdQezs/owFNgM3ivWMNZZFnAA==" }
 ```
 
 How to validate the signature JavaScript:
